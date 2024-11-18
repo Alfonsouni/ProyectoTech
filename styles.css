@@ -1,0 +1,47 @@
+.navbar-li {
+    background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(11,11,153,0.34981915129332986) 35%, rgba(0,212,255,1) 100%);
+}
+.foot {
+    background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(11,11,153,0.34981915129332986) 35%, rgba(0,212,255,1) 100%);
+}
+.facebook-color {
+    color: #1877f2;
+}
+.instagram-color {
+    color: #C13584;
+}
+.x-color {
+    color: #1877f2;
+}
+.whatsaap-color {
+    color: green;
+}
+#menu {
+    color: white;
+}
+.video {
+    height: 100%;
+}
+.center {
+    color: aquamarine;
+}
+.card {
+    padding: 2px;
+    margin: 10px;
+}
+
+.form-control {
+    border: 1px solid;
+}
+
+.card {
+    margin-bottom: 0; /* Elimina el margen inferior de la carta */
+}
+
+.carousel {
+    margin-bottom: 10px; /* Ajusta este valor para el espacio entre el carrusel y la descripción */
+}
+
+.img-fluid {
+    border-radius: 0.25rem; /* Aplica un borde redondeado a las imágenes, opcional */
+}

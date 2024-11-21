@@ -45,3 +45,14 @@
 .img-fluid {
     border-radius: 0.25rem; /* Aplica un borde redondeado a las imágenes, opcional */
 }
+
+.carousel-control-prev {
+    background: none;
+    border: none;
+}
+
+.carousel-control-next {
+    background: none;
+    border: none;
+}
+
